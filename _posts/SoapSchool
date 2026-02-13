@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 공개 로그
-subtitle: 공개 로그는 이렇게 보입니다
+title: 소프스쿨
+subtitle: Ho2
 permalink: /open_testlog/
 ---
 
@@ -11,4 +11,4 @@ permalink: /open_testlog/
 
 암호화 로그 비밀번호 : test
 
-{% include_relative testlog.html %}
+{% include_relative dugeGJKuX.html %}
