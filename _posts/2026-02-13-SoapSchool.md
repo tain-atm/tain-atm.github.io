@@ -6,7 +6,7 @@ permalink: /SoapSchool/
 ---
 ※ HO3, HO4는 알뇌플
 
-※ 알뇌들 반응 재밌어서 안지우고 그대로 넣었습니다ㅋ 꺄르르
+※ 알뇌들 반응 재밌어서 넣어뒀고, 흐름에 맞게 조금씩 수정한 부분이 있습니다!! 
 
 
 {% include_relative soapschool.html %}
