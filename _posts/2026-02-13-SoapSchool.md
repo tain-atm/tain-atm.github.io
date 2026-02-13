@@ -2,7 +2,7 @@
 layout: post
 title: 소프스쿨
 subtitle: 은닉 CoC
-permalink: /open_testlog/
+permalink: /SoapSchool/
 ---
 ※ HO3, HO4는 알뇌플
 
