@@ -4,11 +4,8 @@ title: 소프스쿨
 subtitle: Ho2
 permalink: /open_testlog/
 ---
+※ HO3, HO4는 알뇌플
+※ 알뇌들 반응 재밌어서 안지우고 그대로 넣었습니다ㅋ 꺄르르
 
-공개 로그 포스트입니다.
 
-테스트 용으로 암호화 로그 포스트도 만들었으니 어떻게 보이는지 확인해 보세요.
-
-암호화 로그 비밀번호 : test
-
-{% include_relative dugeGJKuX.html %}
+{% include_relative soapschool.html %}
