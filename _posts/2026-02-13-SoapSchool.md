@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 소프스쿨
-subtitle: Ho2
+subtitle: 은닉 CoC
 permalink: /open_testlog/
 ---
 ※ HO3, HO4는 알뇌플
