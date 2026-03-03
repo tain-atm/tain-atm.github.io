@@ -1,8 +1,7 @@
 ---
-layout: minimal
-title: 운묘인가의 유산
-subtitle: 암호화된 공개 포스트입니다.
+layout: post
 permalink: /Unmyoin_L_251202-p/
+draft: true
 ---
 
 암호화된 숨김 포스트 입니다.
