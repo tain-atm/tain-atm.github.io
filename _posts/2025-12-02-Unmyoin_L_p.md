@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: 운묘인가의 유산
 subtitle: inSANe
 permalink: /Unmyoin_L_251202-p/
